@@ -14,11 +14,11 @@
     - Use **axios** para buscar uma lista de 20 usuários da API.
     - A chamada deve ser feita na tela Home.
 3. Tipagem (TypeScript): Crie interfaces para a estrutura de dados complexa deo RandomUser. O uso de any deve ser evitado.
-4. Tela 1: (Home) - A lista de contatos
+4. Tela 1: Home (/) — A lista de contatos
     - Exiba um indicador de carregamento enquanto a API carrega.
     - Renderize os 20 usuários em uma *FlatList*.
     - Cada item da lista deve ser um botão exibindo foto e o nome completo do usuário.
-5. Tela 2: Detalhes (Profile) - O perfil do contato
+5. Tela 2: Profile (/profile/:username) - O perfil do contato
     - Ao clicar em um item na lista, o aplicativo deve navegar para a tela Profile.
     - O objeto completo do usuário (item) deve ser passado como parâmetro de rota para a tela Profile. *
     - A tela Profile deve receeber o parâmetro.
