@@ -2,7 +2,7 @@
   - administrativo@infinixassessoria.com.br
   - (21) 99515-2411
 
-# SIMPLE RESOURCE API
+# CONTENT NAVIGATOR
 
 ## Sobre
 **Stack**: React Native (Expo Go) + TypeScript + Axios
