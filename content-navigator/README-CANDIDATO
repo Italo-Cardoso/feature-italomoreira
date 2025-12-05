@@ -1,0 +1,16 @@
+Primeiro:
+Para rodar o aplicativo é necessário o executar o comando
+npm install
+npx expo start
+
+Seção 2: Decisões de design
+Fiz estrutura de paginas mais simples e limpa o possivel para outros desenvolvedores
+Separando bem os arquivos, para futura correções
+
+A maior dificuldade que tive foi com o github kkk, tive muitos problemas com o git por fazer upload pro EXPO porem, todo esse aplicativo ja é baseado em stacks que uso a um tempo nos meus aplicativos.
+
+Infelizmente tive muitos problemas com o git e eu acabei fazendo tudo, tudo mesmo de forma funcional dentro do tempo esperado porem acabei estrapolando muito o tempo mesmo estando muito satisfeito com a minha aplicação
+
+[Seção 3: Link para Deploy (Bônus)](https://expo.dev/accounts/italomoreira/projects/content-navigator)
+
+Esse desafio está muito bem feito e é bem tecnico, agradeço poder ter participado
